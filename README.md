@@ -7,8 +7,9 @@
 
 # Libraries Used:
 
-* Pandas 
-* Pathlib 
-* Sqlalchemy 
+*Pandas 
+*Pathlib 
+*sqlalchemy 
+*hvplot
 
 ----
