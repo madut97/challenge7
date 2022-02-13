@@ -7,8 +7,8 @@
 
 # Libraries Used:
 
-* Pandas *
-* Pathlib *
-* Sqlalchemy *
+* Pandas 
+* Pathlib 
+* Sqlalchemy 
 
 ----
