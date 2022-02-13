@@ -5,7 +5,7 @@
 
 * This script analyzes the ETF portfolio provided, by looking at stock-specific returns, as well as portfolio-wide returns. 
 
-# Libraries Used:
+### Libraries Used:
 
 * Pandas 
 * pathlib 
